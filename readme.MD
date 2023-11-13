@@ -1,9 +1,3 @@
-<style>
-  body {
-    font-family: "Arial", sans-serif;
-  }
-</style>
-
 # Operating Systems Assignment-2
 
 ## Developer Information
